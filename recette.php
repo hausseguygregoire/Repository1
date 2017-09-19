@@ -37,7 +37,7 @@ Nom de la recette
 <input id="type_plat_3" name="type_plat" value="3" type="radio">
 <label for="type_plat_3">Dessert</label>
 </p>
-<p>Cooking :<br>
+<p>Durée de préparation :<br>
 <textarea name="preparation" cols="35" rows="5"></textarea>
 </p>
 <p><label for="saison">Quelle saison ?</label>:<br>
