@@ -59,7 +59,7 @@ Nom de la recette
 </p>
 </form>
 
-<!--VOICI LA MODIFICATION DE GREGOIRE-->
+<!--VOICI LA MODIFICATION DE OUALID-->
 
 </div>
 
