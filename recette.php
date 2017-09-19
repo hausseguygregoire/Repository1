@@ -37,11 +37,7 @@ Nom de la recette
 <input id="type_plat_3" name="type_plat" value="3" type="radio">
 <label for="type_plat_3">Dessert</label>
 </p>
-<<<<<<< HEAD
-<p>Durée de préparation :<br>
-=======
-<p>Cooking :<br>
->>>>>>> testing
+<p>Méthode de préparation :<br>
 <textarea name="preparation" cols="35" rows="5"></textarea>
 </p>
 <p><label for="saison">Quelle saison ?</label>:<br>
@@ -59,7 +55,6 @@ Nom de la recette
 </p>
 </form>
 
-<!--VOICI LA MODIFICATION DE OUALID-->
 
 </div>
 
