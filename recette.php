@@ -59,7 +59,7 @@ Nom de la recette
 </p>
 </form>
 
-<!--VOICI LA MODIFICATION DE STAELLE-->
+<!--VOICI LA MODIFICATION DE GREGOIRE-->
 
 </div>
 
